@@ -1,3 +1,4 @@
+# EliteJersy
 EliteJersy - Java-Based Clothing Store Management System
 EliteJersy is a desktop-based Java application built to streamline the buying and selling of clothes and dresses. Designed with simplicity and functionality in mind, this project allows users to manage inventory, handle customer transactions, and organize product categories efficiently.
 
