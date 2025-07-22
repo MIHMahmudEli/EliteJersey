@@ -1,0 +1,5 @@
+\Elitejersey\IMAGES\gersey\IM1.png	Inter Milan Home Shirt 2023-24	1600	            1	XS	mohsin
+\Elitejersey\IMAGES\gersey\AC1.png	AC Milan Home Shirt 2023-24	1545	            1	M	m
+\Elitejersey\IMAGES\gersey\JUV1.png	Juventus Home Shirt 2023-24	1599	            1	XS	m
+\Elitejersey\IMAGES\gersey\Por2.png	Portugal Home Shirt 2023-24	2230	            1	XL	m
+\Elitejersey\IMAGES\gersey\SEVILA.png	sevilla Home Shirt 2023-24	1880	            1	L	nv1

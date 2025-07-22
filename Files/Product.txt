@@ -1,0 +1,20 @@
+AC Milan Home Shirt 2023-24	a	1545	Serie A	\Elitejersey\IMAGES\gersey\AC1.png
+Inter Milan Home Shirt 2023-24	a	1600	Serie A	\Elitejersey\IMAGES\gersey\IM1.png
+Juventus Home Shirt 2023-24	a	1599	Serie A	\Elitejersey\IMAGES\gersey\JUV1.png
+Barcalona Home Shirt 2023-24	a	1880	LALIGA	\Elitejersey\IMAGES\gersey\BAR1.png
+Real Madrid Home Shirt 2023-24	a	2000	LALIGA	\Elitejersey\IMAGES\gersey\REAL1.png
+Manchestar City Home Shirt 2023-24	a	2000	Premeir League	\Elitejersey\IMAGES\gersey\manc1.png
+Manchestar United Home Shirt 2023-24	a	1800	Premeir League	\Elitejersey\IMAGES\gersey\man1.png
+Chelsea Home Shirt 2023-24	a	2150	Premeir League	\Elitejersey\IMAGES\gersey\chel1.png
+Arsenal Away Shirt 2023-24	a	2020	Premeir League	\Elitejersey\IMAGES\gersey\ars1.png
+Argentina Home Shirt 2023-24	1	2300	International	\Elitejersey\IMAGES\gersey\Arg2.png
+Brazil Home Shirt 2023-24	1	2300	International	\Elitejersey\IMAGES\gersey\BRA1.png
+croatia Home Shirt 2023-24	1	2300	International	\Elitejersey\IMAGES\gersey\Cro2.png
+Bayern Munich Home Shirt 2023-24	1	1880	Bundesliga	\Elitejersey\IMAGES\gersey\Bayern1.png
+France Home Shirt 2023-24	1	2250	International	\Elitejersey\IMAGES\gersey\Fra2.png
+Germany Home Shirt 2023-24	1	2140	International	\Elitejersey\IMAGES\gersey\Ger2.png
+Netherlands Home Shirt 2023-24	1	2280	International	\Elitejersey\IMAGES\gersey\Ned2.png
+Poland Home Shirt 2023-24	1	2170	International	\Elitejersey\IMAGES\gersey\Pol2.png
+Portugal Home Shirt 2023-24	1	2230	International	\Elitejersey\IMAGES\gersey\Por2.png
+sevilla Home Shirt 2023-24	1	1880	Bundesliga	\Elitejersey\IMAGES\gersey\SEVILA.png
+Spain Home Shirt 2023-24	1	2265	International	\Elitejersey\IMAGES\gersey\Spa2.png

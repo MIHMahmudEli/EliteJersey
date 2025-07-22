@@ -1,0 +1,5 @@
+\Elitejersey\IMAGES\gersey\Spa2.png	Spain Home Shirt 2023-24	2265	            1	XL	admin
+\Elitejersey\IMAGES\gersey\AC1.png	AC Milan Home Shirt 2023-24	1545	            1	XL	m
+\Elitejersey\IMAGES\gersey\BRA1.png	Brazil Home Shirt 2023-24	2300	            5	XS	m
+\Elitejersey\IMAGES\gersey\JUV1.png	Juventus Home Shirt 2023-24	1599	            5	XS	m
+\Elitejersey\IMAGES\gersey\Arg2.png	Argentina Home Shirt 2023-24	2300	            4	XS	m
